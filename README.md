@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @CherryElla
-- 🧠 I have a passion for learning and building skillsets - investing in onself is key. 
-- 👩‍🎓 Knee deep in coding land at University of Central Florida's Full Stack Coding We Dev Bootcamp.
-- 🌱 In pursuit of a new career in the Tech space - Web Dev, Software Engineering, and App Dev.
-- 💞️ Looking to collaborate on some uniquw and innovative projects that can help me grow my coding skills and set me on the map.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YRQ1DI6hJ16PwpXSWM/giphy.gif" width:"100"/>
+ </div>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/cherryella/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/CherieElla">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 📫 How to reach me - 
+
+
+
 
 LinkedIn https://www.linkedin.com/in/cherryella/ <br>
 Twitter https://twitter.com/CherieElla
