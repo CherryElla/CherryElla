@@ -33,7 +33,7 @@ I am a Full Stack Web Dev originally from the UK, now residing in Florida, USA.
 
 I'm open to collaboration, especially on unique and interesting projects large and small.
 
-- 📫 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cherryella/)
+- [![Linkedin Badge](https://img.shields.io/badge/-cherryella-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cherryella/)
 
 
 
